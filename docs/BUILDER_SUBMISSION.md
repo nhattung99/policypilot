@@ -35,7 +35,7 @@ Submit with the operator wallet and a different nonce for each request. Evaluate
 
 **Network and contract:** GenLayer Studionet, `0x0a30EB7682cc39Fdc1f94fF2C571039b28EC435A`. [Studio Explorer](https://explorer-studio.genlayer.com/address/0x0a30EB7682cc39Fdc1f94fF2C571039b28EC435A)
 
-**GitHub:** Pending approval to create and publish the public repository.
+**GitHub:** [nhattung99/policypilot](https://github.com/nhattung99/policypilot).
 
 **Live app:** [PolicyPilot](https://policypilot-phi.vercel.app). The production dashboard was verified against finalized Studionet reads.
 
