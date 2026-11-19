@@ -37,7 +37,7 @@ Submit with the operator wallet and a different nonce for each request. Evaluate
 
 **GitHub:** Pending approval to create and publish the public repository.
 
-**Live app:** Pending production deployment and verification.
+**Live app:** [PolicyPilot](https://policypilot-phi.vercel.app). The production dashboard was verified against finalized Studionet reads.
 
 **Architecture:** See the [diagram in the README](../README.md#architecture). Use the NovaWorks AI walkthrough above for the three-verdict demo.
 

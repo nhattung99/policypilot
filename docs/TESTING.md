@@ -42,4 +42,4 @@ The optional pinned-SDK smoke test runs with `genlayer-test==0.29.2` via `python
 | Local checks | TypeScript, ESLint, production build, 6 TypeScript tests, 23 contract behavior tests, and the pinned GenVM SDK smoke test passed. Contract tests used fixtures for external evidence and model responses. |
 | Browser | Six fixture-based tests passed. The real Studionet dashboard test passed against the local production build, including refresh and mobile navigation. A preliminary run on the development server was interrupted by hot reload. |
 | Live writes | Pending transaction approval and two authorized Studionet signing wallets. The contract had no persisted test records during verification. |
-| Production site | Pending Vercel deployment approval and verification. |
+| Production site | [Vercel production](https://policypilot-phi.vercel.app) returned HTTP 200. The browser verified the landing page, real Studionet counters before and after refresh, mobile navigation, and missing-wallet feedback. |

@@ -4,6 +4,10 @@
 
 PolicyPilot evaluates procurement requests from authorized agent operator wallets. Businesses publish immutable versions of their policies. GenLayer validators assess requests against the pinned policy and public vendor evidence. The contract records the resulting policy verdict and any later administrator decision. Verdicts have no payment or execution side effects.
 
+## Live App
+
+[Open PolicyPilot](https://policypilot-phi.vercel.app)
+
 ## Run locally
 
 Install Node.js 24 and Python 3.12 or newer. Run:
